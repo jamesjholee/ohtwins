@@ -329,3 +329,4 @@ $~$
 [^4]: [graphql-codegen](https://www.the-guild.dev/graphql/codegen)
 [^5]: [TypeScript](https://www.typescriptlang.org/)
 [^note]: [React docs](https://reactjs.org/docs/getting-started.html)
+
